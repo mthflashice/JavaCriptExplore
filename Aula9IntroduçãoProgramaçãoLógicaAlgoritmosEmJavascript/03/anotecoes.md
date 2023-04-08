@@ -1,0 +1,1 @@
+Boas Pratica não repetir codigo, quando possível
